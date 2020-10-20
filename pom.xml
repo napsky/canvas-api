@@ -2,9 +2,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>edu.ksu.canvas</groupId>
+  <groupId>com.achieve3000.canvas</groupId>
   <artifactId>canvas-api</artifactId>
-  <version>1.0.25-SNAPSHOT</version>
+  <version>1.0.25</version>
   <packaging>jar</packaging>
 
   <name>Canvas API Library</name>
@@ -20,8 +20,8 @@
   </licenses>
 
   <organization>
-    <name>Kansas State University, Office of Mediated Education</name>
-    <url>http://ome.ksu.edu/</url>
+    <name>Achieve3000 - Digital solutions to accelerate growth and learning</name>
+    <url>http://www.achieve3000.com/</url>
   </organization>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -29,16 +29,16 @@
 
   <developers>
     <developer>
-      <name>Toby Murray</name>
-      <email>toby@ksu.edu</email>
-      <organization>Kansas State University, Office of Mediated Education</organization>
+      <name>Jason Napsky</name>
+      <email>jason.napsky@achieve30000.com</email>
+      <organization>Achieve3000 - Digital solutions to accelerate growth and learning</organization>
     </developer>
   </developers>
 
   <scm>
-    <connection>scm:git:ssh://git@github.com/kstateome/canvas-api.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/kstateome/canvas-api.git</developerConnection>
-    <url>https://github.com/kstateome/canvas-api</url>
+    <connection>scm:git:ssh://git@github.com:napsky/canvas-api.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com:napsky/canvas-api.git</developerConnection>
+    <url>https://github.com/napsky/canvas-api</url>
     <tag>release-1.0</tag>
   </scm>
 
